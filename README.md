@@ -12,9 +12,9 @@ Aplikasi ini bekerja sebagai client Android yang mengakses SIAKAD melalui WebVie
 
 ### Latest APK
 
-[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge\&logo=android)](https://github.com/HafidzX-dev/APK-Siakad-UNP-Kediri-V2/releases/download/untagged-fa7aec7fc4576d26535c/apk_siakad.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge\&logo=android)](https://github.com/HafidzX-dev/APK-Siakad-UNP-Kediri-V2/releases/download/main/apk_siakad.apk)
 
-**[⬇️ Download `apk_siakad.apk`](https://github.com/HafidzX-dev/APK-Siakad-UNP-Kediri-V2/releases/download/untagged-fa7aec7fc4576d26535c/apk_siakad.apk)**
+**[⬇️ Download `apk_siakad.apk`](https://github.com/HafidzX-dev/APK-Siakad-UNP-Kediri-V2/releases/download/main/apk_siakad.apk)**
 
 > ⚠️ Jika link di atas tidak dapat diakses, cek bagian **Releases** repository untuk mendapatkan build terbaru.
 
